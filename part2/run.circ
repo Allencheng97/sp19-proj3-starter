@@ -365,7 +365,7 @@
       <a name="addrWidth" val="14"/>
       <a name="dataWidth" val="32"/>
       <a name="contents">addr/data: 14 32
-8007383
+540413 ffd48493 90303b 80303b 411903 410303
 </a>
     </comp>
     <comp lib="0" loc="(1130,760)" name="Probe">
